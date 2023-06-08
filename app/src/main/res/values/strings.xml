@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ErkinbekovBilimMonth_5_Dz_7</string>
+    <string name="firstnum">firstNum</string>
+    <string name="first_number">first number</string>
+    <string name="second_number">second_number</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">result</string>
+    <string name="divide">Divide</string>
+</resources>
